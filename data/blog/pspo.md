@@ -1,5 +1,5 @@
 ---
-title: 'PSPO1 và PSPO2: Hành Trình Khám Phá của Khỉ Hồng'
+title: 'PSPO I và PSPO II: Hành Trình Khám Phá của Khỉ Hồng'
 date: '2024-07-13'
 tags: ['PSPO', 'PSPO I', 'PSP0 II', 'Scrum', 'Agile']
 draft: false
