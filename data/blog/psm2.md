@@ -6,10 +6,8 @@ draft: false
 summary: 'Để có chứng chỉ, hãy học như Khỉ !'
 ---
 
-# Từ PSM1 đến PSM2 - Hành trình không ngừng nghỉ
-
 Nếu bạn đã vượt qua PSM1, xin chúc mừng! Bạn đã đạt được một cột mốc quan trọng trên hành trình Scrum. Nhưng hành trình này chưa kết thúc, bởi PSM2 (Professional Scrum Master II) đang chờ đón bạn. Vậy làm thế nào để học PSM2 như Khỉ?
-
+#
 ## Không ngừng khám phá và học hỏi
 
 Hành trình từ `PSM1` đến `PSM2` không chỉ là việc học thêm kiến thức mới mà còn là việc hiểu sâu hơn về những gì bạn đã biết. Không ai biết mọi thứ, và việc học hỏi là một quá trình không bao giờ kết thúc vì vậy hãy tò mò, khám phá và không ngừng đặt câu hỏi !
