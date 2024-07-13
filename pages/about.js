@@ -59,19 +59,18 @@ export default function About() {
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                Nếu tôi cho bạn 100 tỷ. Bạn có nhận không ? <br />
-                Nhưng tôi thêm một điều kiện :"Sau khi có 100 tỷ thì ngày mai bạn không còn được thở nữa.". Thì bạn có nhận không ? <br />
-                Nếu bạn chọn còn được thở thay vì 100 tỷ thì mỗi ngày còn thở là một ngày đáng sống. <br />
-                Hãy sống trọn vẹn từng ngày với những người thân, người bạn của bạn, những người quan tâm đến bạn !  <br />
+                Nếu bạn nhận 100 tỷ với một điều kiện :"Sau khi có 100 tỷ thì ngày mai bạn không còn thức dậy nữa.". Bạn có nhận không ? <br />
+                Nếu bạn chọn ngày mai vẫn thức dậy thay vì 100 tỷ thì mỗi ngày thức dậy là một ngày đáng quý. <br />
+                <br />
               </p>
               <p>
-                Bên cạnh đó đừng quên đặt mục tiêu cho bản thân
-                Đừng nghĩ là mục tiêu cá nhân của bạn chỉ phục vụ bạn
-                Đúng. Nó phục vụ bạn nhưng nó còn có tác dụng với những người xung quanh bạn 
+                Bên cạnh đó đừng quên đặt mục tiêu cho bản thân.
+                Đừng nghĩ là mục tiêu cá nhân của bạn chỉ phục vụ bạn.
+                Đúng. Nó phục vụ bạn nhưng nó còn có tác dụng với những người xung quanh bạn .
                 Ân hận nhất chẳng phải là mình không có năng lực để giúp đỡ những người đã đối tốt với mình hay sao !
               </p>
               <p>
-                Vì thế hãy sống "hồng" lên và đừng quên đặt mục tiêu để phát triển bản thân nhé !
+                Vì thế đừng quên đặt mục tiêu để phát triển bản thân và sống trọn vẹn từng ngày với những người thân, những người quan tâm đến bạn nhé !
               </p>
              
             </div>
