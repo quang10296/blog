@@ -1,7 +1,7 @@
 ---
-title: Cách tôi học PSM1 như một con Khỉ hồng !
+title: Cách tôi học PSM I như một con Khỉ hồng !
 date: '2024-06-30'
-tags: ['PSM', 'PSM1', 'Scrum', 'Agile']
+tags: ['PSM', 'PSM I', 'Scrum', 'Agile']
 draft: false
 summary: 'Để có chứng chỉ, hãy học như Khỉ !'
 ---
@@ -43,7 +43,7 @@ Nhớ đảm bảo mạng internet ổn định nhé, nếu bị out hoặc mấ
 Luyện hết đống trên thì cũng đủ để pass rồi. 
 
 
-Cố gắng pass PSM1 ngay từ lần thi thứ 2 nhé ! 
+Cố gắng pass PSM I ngay từ lần thi thứ 2 nhé ! 
 
 Chúc may mắn lần sau.
 

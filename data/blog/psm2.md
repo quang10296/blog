@@ -1,16 +1,16 @@
 ---
-title: 'Khỉ hồng và bí quyết thành công với PSM2 !'
+title: 'Khỉ hồng và bí quyết thành công với PSM II !'
 date: '2024-07-06'
-tags: ['PSM', 'PSM2', 'Scrum', 'Agile']
+tags: ['PSM', 'PSM II', 'Scrum', 'Agile']
 draft: false
 summary: 'Để có chứng chỉ, hãy học như Khỉ !'
 ---
 
-Nếu bạn đã vượt qua PSM1, xin chúc mừng! Bạn đã đạt được một cột mốc quan trọng trên hành trình Scrum. Nhưng hành trình này chưa kết thúc, bởi PSM2 (Professional Scrum Master II) đang chờ đón bạn. Vậy làm thế nào để học PSM2 như Khỉ?
+Nếu bạn đã vượt qua PSM I, xin chúc mừng! Bạn đã đạt được một cột mốc quan trọng trên hành trình Scrum. Nhưng hành trình này chưa kết thúc, bởi PSM II (Professional Scrum Master II) đang chờ đón bạn. Vậy làm thế nào để học PSM II như Khỉ?
 #
 ## Không ngừng khám phá và học hỏi
 
-Hành trình từ `PSM1` đến `PSM2` không chỉ là việc học thêm kiến thức mới mà còn là việc hiểu sâu hơn về những gì bạn đã biết. Không ai biết mọi thứ, và việc học hỏi là một quá trình không bao giờ kết thúc vì vậy hãy tò mò, khám phá và không ngừng đặt câu hỏi !
+Hành trình từ `PSM I` đến `PSM II` không chỉ là việc học thêm kiến thức mới mà còn là việc hiểu sâu hơn về những gì bạn đã biết. Không ai biết mọi thứ, và việc học hỏi là một quá trình không bao giờ kết thúc vì vậy hãy tò mò, khám phá và không ngừng đặt câu hỏi !
 
 
 ### Chuẩn bị để học như Khỉ 
@@ -106,5 +106,5 @@ hiệu quả.
 
 ### Chúc may mắn!
 
-Vượt qua PSM2 là một thử thách nhưng cũng là cơ hội để bạn khẳng định kiến thức và kỹ năng của mình. Hãy học tập như Khỉ, không ngừng tò mò và khám phá. Chúc bạn may mắn và thi pass ngay từ lần thứ 2!
+Vượt qua PSM II là một thử thách nhưng cũng là cơ hội để bạn khẳng định kiến thức và kỹ năng của mình. Hãy học tập như Khỉ, không ngừng tò mò và khám phá. Chúc bạn may mắn và thi pass ngay từ lần thứ 2!
 
