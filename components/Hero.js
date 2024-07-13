@@ -43,7 +43,7 @@ export default function Hero() {
         Chào mừng đến với blog !<br />
       </h1>
       <p className="mt-6 mb-4 text-base text-gray-600 dark:text-gray-400">
-        Tôi là một lập trình viên di động đang trên con đường di chuyển từ lập trình sang làm quản lý.<br />
+        Tôi là một lập trình viên di động đang trên con đường phát triển bản thân.<br />
         Nếu bạn cũng có mong muốn đó thì tôi hi vọng những bài viết tôi chia sẻ có thể giúp bạn một phần, hay chí ít thì cũng tạo động lực cho bạn trên con đường của mình !<br />
         Cảm ơn đã ghé thăm ~~ <br />
       </p>

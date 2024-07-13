@@ -30,7 +30,7 @@ export default function About() {
         <title>{`Tôi là ai ?`}</title>
         <meta
           name="description"
-          content="Tôi là một lập trình viên di động đang trên con đường di chuyển từ lập trình sang làm quản lý.
+          content="Tôi là một lập trình viên di động đang trên con đường phát triển bản thân.
           Nếu bạn cũng có mong muốn đó thì tôi hi vọng những bài viết tôi chia sẻ có thể giúp bạn một phần, hay chí ít thì cũng tạo động lực cho bạn trên con đường của mình !
           Cảm ơn đã ghé thăm ~~"
         />
