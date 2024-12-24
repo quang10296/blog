@@ -6,7 +6,7 @@ draft: false
 summary: 'Để có chứng chỉ, hãy học như Khỉ !'
 ---
 
-**Hành trình vạn dặm bắt đầu từ bước chân đầu tiênn**
+**Hành trình vạn dặm bắt đầu từ bước chân đầu tiên**
 
 Một người anh đã chia sẻ với tôi rằng: " Mọi việc ta làm đều có tác dụng, đều có ý nghĩa, mỗi giây ta sống đều giá trị đối với ta trong tương lai. Không có gì là vô ích, vô dụng cả! ". Sau đó tôi mới phát hiện ra rằng, tôi đã như vậy. Chỉ là tôi không biết mà thôi. Nếu tôi không tò mò Scrum là cái gì ? Agile có ăn được không ? Sao ông quản lý lúc quoái nào cũng chat chat họp họp thế nhỉ ? thì tôi đâu có search google về những thứ đó. Đó là lúc tôi bắt đầu những thứ nhỏ nhất trên hành trình của mình. Đối với tôi, chẳng có thứ gì mà không bắt đầu bằng những việc nhỏ bé, đặc biệt là việc tiếp thu kiến thức về một lĩnh vựa nào đó. Nếu bạn chưa làm hoặc chưa từng tiếp xúc với nó thì xin chúc mừng, bạn đã có nền tảng rất tốt. Còn nếu bạn đã làm nó thì càng hay, vì bạn đã có kinh nghiệm. Quan trọng hơn cả là bạn hãy giữ cho mình kỷ luật để hoàn thành mục tiêu đã đưa ra. Lúc nào là lúc thích hợp nhất để bắt đầu ? Ngay lúc này. Đừng trì hoãn vì bất cứ lý do gì. Và nếu bạn muốn tìm hiểu về Srum, hay cụ thể hơn là PSM 1 thì đây là sách giáo khoa [Scrum Guide Tiếng Việt](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Vietnamese.pdf) và [Scrum Guide Tiếng Anh](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf)
 
