@@ -1,12 +1,12 @@
 const siteMetadata = {
-  title: 'Thực sự vô tri ?',
+  title: 'Blog vô tri !',
   author: 'QuangNguyen',
   headerTitle: 'QuangNguyen - Blog vô tri',
   description:
     'Blog vô tri - vô cùng tri thức của tôiiii',
   language: 'vi-vn',
   theme: 'dark', // system, dark or light
-  siteUrl: 'https://quangnguyen.cloud',
+  siteUrl: 'https://nduyquang.com',
   siteRepo: 'https://github.com/quang10296/personal-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
@@ -22,7 +22,7 @@ const siteMetadata = {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
     // supports plausible, simpleAnalytics, umami or googleAnalytics
-    plausibleDataDomain: 'https://quangnguyen.cloud', // e.g. tailwind-nextjs-starter-blog.vercel.app
+    plausibleDataDomain: 'https://nduyquang.com', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
     googleAnalyticsId: process.env.NEXT_PUBLIC_GOOGLE_ANALYTIC_ID, // e.g. UA-000000-2 or G-XXXXXXX

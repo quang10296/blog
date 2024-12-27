@@ -43,13 +43,13 @@ export default function Hero() {
         Chào mừng đến với blog !<br />
       </h1>
       <p className="mt-6 mb-4 text-base text-gray-600 dark:text-gray-400">
-        Tôi là một lập trình viên di động đang trên con đường phát triển bản thân.<br />
+        Tôi đang trên con đường phát triển bản thân.<br />
         Nếu bạn cũng có mong muốn đó thì tôi hi vọng những bài viết tôi chia sẻ có thể giúp bạn một phần, hay chí ít thì cũng tạo động lực cho bạn trên con đường của mình !<br />
         Cảm ơn đã ghé thăm ~~ <br />
       </p>
-      {/* <Button href="/static/Quang_Nguyen_Resume.pdf">
+      <Button href="/static/PM-NGUYEN-DUY-QUANG.pdf">
         Đây là CV của tôi.
-      </Button> */}
+      </Button>
       <div className="mt-6 flex gap-6">
         <SocialLink
           href="https://www.linkedin.com/in/duyquangnguyen10296/"
